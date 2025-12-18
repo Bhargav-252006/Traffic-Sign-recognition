@@ -1,0 +1,82 @@
+
+# --- Python / Jupyter / Deep Learning ---
+
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# ML / data artifacts (adjust to your preference)
+data/
+datasets/
+**/.cache/
+wandb/
+mlruns/
+logs/
+
+# Checkpoints / models
+checkpoints/
+weights/
+models/
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Large binary datasets
+*.zip
+*.7z
+*.tar
+*.gz
+*.tgz
+*.rar
+
+# Env files / secrets
+.env
+.env.*
+
