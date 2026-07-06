@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1
+convnext_tiny,99.41,99.0,99.27,99.11
+ENSEMBLE (Soft Voting),99.37,98.7,99.2,98.92
+resnet18,99.11,98.03,98.82,98.36
+efficientnet_b0,98.16,96.91,97.71,97.18

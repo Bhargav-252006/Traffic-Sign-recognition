@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),Params (M),Train Time (min)
+convnext_tiny,99.41,99.0,99.27,99.11,28.23,63.9
+resnet18,99.11,98.03,98.82,98.36,11.57,37.2
+efficientnet_b0,98.16,96.91,97.71,97.18,4.69,75.8

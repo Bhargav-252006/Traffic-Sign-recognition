@@ -1,0 +1,173 @@
+Model,Class,Sign,Precision (%),Recall (%),F1 (%),AUC-ROC
+ConvNeXt-Tiny,0,Speed limit (20km/h),96.77,100.0,98.36,1.0
+ConvNeXt-Tiny,1,Speed limit (30km/h),99.45,100.0,99.72,0.9999
+ConvNeXt-Tiny,10,No passing (>3.5t),100.0,99.85,99.92,1.0
+ConvNeXt-Tiny,11,Right-of-way at intersection,100.0,99.05,99.52,1.0
+ConvNeXt-Tiny,12,Priority road,99.71,99.86,99.78,1.0
+ConvNeXt-Tiny,13,Yield,99.72,99.72,99.72,1.0
+ConvNeXt-Tiny,14,Stop,99.63,100.0,99.82,1.0
+ConvNeXt-Tiny,15,No vehicles,100.0,99.52,99.76,1.0
+ConvNeXt-Tiny,16,Vehicles >3.5t prohibited,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,17,No entry,100.0,99.72,99.86,1.0
+ConvNeXt-Tiny,18,General caution,100.0,95.38,97.64,0.9999
+ConvNeXt-Tiny,19,Dangerous curve left,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,2,Speed limit (50km/h),99.87,99.87,99.87,0.9999
+ConvNeXt-Tiny,20,Dangerous curve right,91.84,100.0,95.74,0.9999
+ConvNeXt-Tiny,21,Double curve,88.24,100.0,93.75,1.0
+ConvNeXt-Tiny,22,Bumpy road,100.0,91.67,95.65,1.0
+ConvNeXt-Tiny,23,Slippery road,100.0,98.67,99.33,1.0
+ConvNeXt-Tiny,24,Road narrows on right,96.77,100.0,98.36,1.0
+ConvNeXt-Tiny,25,Road work,97.96,100.0,98.97,1.0
+ConvNeXt-Tiny,26,Traffic signals,99.45,100.0,99.72,1.0
+ConvNeXt-Tiny,27,Pedestrians,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,28,Children crossing,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,29,Bicycles crossing,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,3,Speed limit (60km/h),100.0,98.0,98.99,1.0
+ConvNeXt-Tiny,30,Beware of ice/snow,94.81,97.33,96.05,0.9999
+ConvNeXt-Tiny,31,Wild animals crossing,99.63,100.0,99.82,1.0
+ConvNeXt-Tiny,32,End speed + passing limits,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,33,Turn right ahead,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,34,Turn left ahead,97.56,100.0,98.77,1.0
+ConvNeXt-Tiny,35,Ahead only,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,36,Go straight or right,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,37,Go straight or left,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,38,Keep right,99.86,100.0,99.93,1.0
+ConvNeXt-Tiny,39,Keep left,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,4,Speed limit (70km/h),100.0,98.94,99.47,1.0
+ConvNeXt-Tiny,40,Roundabout mandatory,100.0,94.44,97.14,0.9999
+ConvNeXt-Tiny,41,End of no passing,100.0,100.0,100.0,1.0
+ConvNeXt-Tiny,42,End no passing (>3.5t),97.83,100.0,98.9,1.0
+ConvNeXt-Tiny,5,Speed limit (80km/h),98.43,99.68,99.05,1.0
+ConvNeXt-Tiny,6,End of 80km/h limit,100.0,97.33,98.65,1.0
+ConvNeXt-Tiny,7,Speed limit (100km/h),100.0,99.56,99.78,1.0
+ConvNeXt-Tiny,8,Speed limit (120km/h),99.56,100.0,99.78,1.0
+ConvNeXt-Tiny,9,No passing,99.79,100.0,99.9,1.0
+Enhanced ResNet18,0,Speed limit (20km/h),96.77,100.0,98.36,1.0
+Enhanced ResNet18,1,Speed limit (30km/h),99.31,100.0,99.65,0.9999
+Enhanced ResNet18,10,No passing (>3.5t),99.85,100.0,99.92,1.0
+Enhanced ResNet18,11,Right-of-way at intersection,99.51,96.67,98.07,0.9999
+Enhanced ResNet18,12,Priority road,100.0,99.57,99.78,1.0
+Enhanced ResNet18,13,Yield,100.0,99.72,99.86,1.0
+Enhanced ResNet18,14,Stop,100.0,100.0,100.0,1.0
+Enhanced ResNet18,15,No vehicles,100.0,100.0,100.0,1.0
+Enhanced ResNet18,16,Vehicles >3.5t prohibited,100.0,100.0,100.0,1.0
+Enhanced ResNet18,17,No entry,100.0,100.0,100.0,1.0
+Enhanced ResNet18,18,General caution,100.0,92.56,96.14,0.9922
+Enhanced ResNet18,19,Dangerous curve left,100.0,100.0,100.0,1.0
+Enhanced ResNet18,2,Speed limit (50km/h),99.87,99.87,99.87,0.9999
+Enhanced ResNet18,20,Dangerous curve right,81.08,100.0,89.55,0.9998
+Enhanced ResNet18,21,Double curve,84.91,100.0,91.84,0.9997
+Enhanced ResNet18,22,Bumpy road,98.36,100.0,99.17,1.0
+Enhanced ResNet18,23,Slippery road,99.34,100.0,99.67,1.0
+Enhanced ResNet18,24,Road narrows on right,98.9,100.0,99.45,1.0
+Enhanced ResNet18,25,Road work,99.58,98.54,99.06,1.0
+Enhanced ResNet18,26,Traffic signals,94.74,100.0,97.3,0.9999
+Enhanced ResNet18,27,Pedestrians,98.36,100.0,99.17,1.0
+Enhanced ResNet18,28,Children crossing,100.0,99.33,99.67,1.0
+Enhanced ResNet18,29,Bicycles crossing,98.9,100.0,99.45,1.0
+Enhanced ResNet18,3,Speed limit (60km/h),100.0,99.33,99.67,1.0
+Enhanced ResNet18,30,Beware of ice/snow,89.1,92.67,90.85,0.9996
+Enhanced ResNet18,31,Wild animals crossing,99.63,99.63,99.63,1.0
+Enhanced ResNet18,32,End speed + passing limits,100.0,100.0,100.0,1.0
+Enhanced ResNet18,33,Turn right ahead,100.0,100.0,100.0,1.0
+Enhanced ResNet18,34,Turn left ahead,100.0,100.0,100.0,1.0
+Enhanced ResNet18,35,Ahead only,99.74,100.0,99.87,1.0
+Enhanced ResNet18,36,Go straight or right,99.17,100.0,99.59,1.0
+Enhanced ResNet18,37,Go straight or left,96.77,100.0,98.36,1.0
+Enhanced ResNet18,38,Keep right,99.71,99.86,99.78,1.0
+Enhanced ResNet18,39,Keep left,97.78,97.78,97.78,1.0
+Enhanced ResNet18,4,Speed limit (70km/h),100.0,98.94,99.47,0.9988
+Enhanced ResNet18,40,Roundabout mandatory,98.82,93.33,96.0,1.0
+Enhanced ResNet18,41,End of no passing,88.24,100.0,93.75,1.0
+Enhanced ResNet18,42,End no passing (>3.5t),98.8,91.11,94.8,1.0
+Enhanced ResNet18,5,Speed limit (80km/h),98.59,100.0,99.29,1.0
+Enhanced ResNet18,6,End of 80km/h limit,100.0,91.33,95.47,0.9997
+Enhanced ResNet18,7,Speed limit (100km/h),100.0,99.33,99.67,1.0
+Enhanced ResNet18,8,Speed limit (120km/h),99.56,100.0,99.78,1.0
+Enhanced ResNet18,9,No passing,100.0,99.79,99.9,1.0
+EfficientNet-B0,0,Speed limit (20km/h),98.36,100.0,99.17,1.0
+EfficientNet-B0,1,Speed limit (30km/h),98.75,99.03,98.89,0.9999
+EfficientNet-B0,10,No passing (>3.5t),99.55,100.0,99.77,1.0
+EfficientNet-B0,11,Right-of-way at intersection,98.56,98.1,98.33,1.0
+EfficientNet-B0,12,Priority road,98.42,99.57,98.99,1.0
+EfficientNet-B0,13,Yield,99.31,99.86,99.58,1.0
+EfficientNet-B0,14,Stop,98.54,100.0,99.26,1.0
+EfficientNet-B0,15,No vehicles,100.0,99.52,99.76,0.9999
+EfficientNet-B0,16,Vehicles >3.5t prohibited,100.0,100.0,100.0,1.0
+EfficientNet-B0,17,No entry,100.0,95.56,97.73,1.0
+EfficientNet-B0,18,General caution,99.72,90.0,94.61,0.9999
+EfficientNet-B0,19,Dangerous curve left,92.31,100.0,96.0,1.0
+EfficientNet-B0,2,Speed limit (50km/h),97.25,99.2,98.22,0.9991
+EfficientNet-B0,20,Dangerous curve right,77.59,100.0,87.38,0.9997
+EfficientNet-B0,21,Double curve,79.65,100.0,88.67,0.9997
+EfficientNet-B0,22,Bumpy road,100.0,88.33,93.81,0.9999
+EfficientNet-B0,23,Slippery road,98.63,96.0,97.3,1.0
+EfficientNet-B0,24,Road narrows on right,96.74,98.89,97.8,1.0
+EfficientNet-B0,25,Road work,97.14,98.96,98.04,0.9999
+EfficientNet-B0,26,Traffic signals,94.74,100.0,97.3,1.0
+EfficientNet-B0,27,Pedestrians,96.77,100.0,98.36,1.0
+EfficientNet-B0,28,Children crossing,100.0,96.67,98.31,1.0
+EfficientNet-B0,29,Bicycles crossing,94.74,100.0,97.3,1.0
+EfficientNet-B0,3,Speed limit (60km/h),99.77,97.56,98.65,0.9999
+EfficientNet-B0,30,Beware of ice/snow,94.24,87.33,90.66,0.9992
+EfficientNet-B0,31,Wild animals crossing,97.79,98.52,98.15,1.0
+EfficientNet-B0,32,End speed + passing limits,100.0,100.0,100.0,1.0
+EfficientNet-B0,33,Turn right ahead,98.59,100.0,99.29,1.0
+EfficientNet-B0,34,Turn left ahead,100.0,100.0,100.0,1.0
+EfficientNet-B0,35,Ahead only,99.74,100.0,99.87,1.0
+EfficientNet-B0,36,Go straight or right,98.36,100.0,99.17,0.9999
+EfficientNet-B0,37,Go straight or left,98.36,100.0,99.17,1.0
+EfficientNet-B0,38,Keep right,100.0,99.86,99.93,1.0
+EfficientNet-B0,39,Keep left,98.86,96.67,97.75,1.0
+EfficientNet-B0,4,Speed limit (70km/h),99.84,96.67,98.23,0.9998
+EfficientNet-B0,40,Roundabout mandatory,100.0,96.67,98.31,0.9999
+EfficientNet-B0,41,End of no passing,89.55,100.0,94.49,1.0
+EfficientNet-B0,42,End no passing (>3.5t),80.58,92.22,86.01,0.9998
+EfficientNet-B0,5,Speed limit (80km/h),97.06,99.68,98.36,0.9998
+EfficientNet-B0,6,End of 80km/h limit,100.0,80.67,89.3,1.0
+EfficientNet-B0,7,Speed limit (100km/h),100.0,97.78,98.88,0.9993
+EfficientNet-B0,8,Speed limit (120km/h),97.58,98.67,98.12,0.9999
+EfficientNet-B0,9,No passing,100.0,99.38,99.69,1.0
+Ensemble (Soft Voting),0,Speed limit (20km/h),96.77,100.0,98.36,1.0
+Ensemble (Soft Voting),1,Speed limit (30km/h),99.86,100.0,99.93,0.9999
+Ensemble (Soft Voting),10,No passing (>3.5t),99.85,100.0,99.92,1.0
+Ensemble (Soft Voting),11,Right-of-way at intersection,99.76,97.62,98.68,1.0
+Ensemble (Soft Voting),12,Priority road,99.71,99.86,99.78,1.0
+Ensemble (Soft Voting),13,Yield,99.72,99.86,99.79,1.0
+Ensemble (Soft Voting),14,Stop,99.26,100.0,99.63,1.0
+Ensemble (Soft Voting),15,No vehicles,100.0,99.52,99.76,1.0
+Ensemble (Soft Voting),16,Vehicles >3.5t prohibited,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),17,No entry,100.0,99.44,99.72,1.0
+Ensemble (Soft Voting),18,General caution,99.73,95.64,97.64,1.0
+Ensemble (Soft Voting),19,Dangerous curve left,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),2,Speed limit (50km/h),99.73,99.87,99.8,0.9999
+Ensemble (Soft Voting),20,Dangerous curve right,85.71,100.0,92.31,1.0
+Ensemble (Soft Voting),21,Double curve,86.54,100.0,92.78,0.9999
+Ensemble (Soft Voting),22,Bumpy road,100.0,95.83,97.87,1.0
+Ensemble (Soft Voting),23,Slippery road,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),24,Road narrows on right,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),25,Road work,98.96,99.58,99.27,1.0
+Ensemble (Soft Voting),26,Traffic signals,99.45,100.0,99.72,1.0
+Ensemble (Soft Voting),27,Pedestrians,98.36,100.0,99.17,1.0
+Ensemble (Soft Voting),28,Children crossing,100.0,99.33,99.67,1.0
+Ensemble (Soft Voting),29,Bicycles crossing,98.9,100.0,99.45,1.0
+Ensemble (Soft Voting),3,Speed limit (60km/h),100.0,98.44,99.22,1.0
+Ensemble (Soft Voting),30,Beware of ice/snow,92.26,95.33,93.77,0.9999
+Ensemble (Soft Voting),31,Wild animals crossing,99.63,99.63,99.63,1.0
+Ensemble (Soft Voting),32,End speed + passing limits,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),33,Turn right ahead,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),34,Turn left ahead,99.17,100.0,99.59,1.0
+Ensemble (Soft Voting),35,Ahead only,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),36,Go straight or right,99.17,100.0,99.59,1.0
+Ensemble (Soft Voting),37,Go straight or left,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),38,Keep right,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),39,Keep left,100.0,100.0,100.0,1.0
+Ensemble (Soft Voting),4,Speed limit (70km/h),100.0,98.94,99.47,1.0
+Ensemble (Soft Voting),40,Roundabout mandatory,100.0,96.67,98.31,1.0
+Ensemble (Soft Voting),41,End of no passing,95.24,100.0,97.56,1.0
+Ensemble (Soft Voting),42,End no passing (>3.5t),97.75,96.67,97.21,1.0
+Ensemble (Soft Voting),5,Speed limit (80km/h),98.75,100.0,99.37,1.0
+Ensemble (Soft Voting),6,End of 80km/h limit,100.0,94.0,96.91,1.0
+Ensemble (Soft Voting),7,Speed limit (100km/h),100.0,99.78,99.89,1.0
+Ensemble (Soft Voting),8,Speed limit (120km/h),99.78,100.0,99.89,1.0
+Ensemble (Soft Voting),9,No passing,100.0,99.79,99.9,1.0

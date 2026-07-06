@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Environment / secrets
+.env.local
+*.env
+openrouter_key.txt
+
+# Large model checkpoints – track individually or via Git LFS
+# Uncomment the line below if you do NOT want to push .pth files
+# *.pth
+
+# Large dataset images (do not push raw GTSRB images)
+model_data/
+
+# Generated result images (optional – uncomment to exclude)
+# *.png
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/

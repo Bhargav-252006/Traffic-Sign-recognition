@@ -1,0 +1,18 @@
+Class_ID,Class_Name,Total_Images,Correct,Accuracy,Avg_Confidence,LLM_Used,LLM_Usage_Rate
+0,Speed limit 20 km/h - Circular,11,11,100.0,0.8946476361968301,11,100.0
+1,Speed limit 30 km/h - Circular,11,11,100.0,0.923160043629733,1,9.090909090909092
+2,Speed limit 50 km/h - Circular,11,11,100.0,0.9115416028282859,11,100.0
+3,Speed limit 60 km/h - Circular,11,11,100.0,0.9033701853318648,11,100.0
+4,Speed limit 70 km/h - Circular,11,11,100.0,0.9163231578740206,11,100.0
+5,Speed limit 80 km/h - Circular,11,11,100.0,0.8935888084498319,11,100.0
+6,End of speed limit 80 km/h - C,11,11,100.0,0.910998051816767,11,100.0
+7,Speed limit 100 km/h - Circula,11,11,100.0,0.912850791757757,11,100.0
+8,Speed limit 120 km/h - Circula,11,11,100.0,0.8766140341758728,11,100.0
+33,Turn right ahead - Blue circul,11,11,100.0,0.9080331921577454,11,100.0
+34,Turn left ahead - Blue circula,11,11,100.0,0.9036359461871061,11,100.0
+35,Ahead only - Blue circular sig,11,11,100.0,0.9122589826583862,11,100.0
+36,Go straight or right - Blue ci,11,11,100.0,0.9068981842561201,11,100.0
+37,Go straight or left - Blue cir,11,11,100.0,0.9126489758491516,11,100.0
+38,Keep right - Blue circular sig,11,11,100.0,0.8731679157777266,11,100.0
+39,Keep left - Blue circular sign,11,11,100.0,0.8714017271995544,11,100.0
+40,Roundabout mandatory - Blue ci,11,11,100.0,0.916871043768796,4,36.36363636363637
